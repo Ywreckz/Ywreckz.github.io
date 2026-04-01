@@ -1,2 +1,1 @@
-# github.io
-github users page
+Yannis Smith's User Page
